@@ -1,8 +1,11 @@
 /*distinct styling for first element only*/ 
 
-.fE1{
+.fEl{
 background-color: black;
 color: white;
 }
 
+.sEl{
+background-color: yellow;
+}
  
