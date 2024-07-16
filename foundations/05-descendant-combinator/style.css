@@ -1,0 +1,9 @@
+/*Adding descendant-combinators*/
+
+/*only paragraph elements with div ancestors should have these styling*/
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
