@@ -8,4 +8,11 @@ color: white;
 .sEl{
 background-color: yellow;
 }
+
+/*grouping the two class selectors*/
+.fEl,.sEl{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
  
